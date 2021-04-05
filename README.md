@@ -37,9 +37,6 @@ I was also interested in names from English speaking countries, and found two da
 ### BC, Canada 🇨🇦
 
 
-🇨🇦 🇪🇸 🇺🇸
-
-
 ## References
 - __Popular names in Spain__
     - [Most frequent first names and surenames](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177009&menu=resultados&idp=1254734710990#!tabs-1254736195454) by Instituto Nacional de Estadística.
