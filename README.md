@@ -48,3 +48,6 @@ I was also interested in names from English speaking countries, and found two da
 
 - __Popular names in British Columbia, Canada__
     - [B.C.'s Most Popular Baby Names](https://www2.gov.bc.ca/gov/content/life-events/statistics-reports/bc-s-most-popular-baby-names) by the Government of British Columbia.
+    
+- __Tools__
+    - Julia Silge and David Robinson. [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/ngrams.html). Chapter 4 Relationships between words: n-grams and correlations.
