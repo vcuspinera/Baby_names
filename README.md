@@ -15,9 +15,9 @@ After months of searching names, we have come with a list of favorite names for 
 |             |Amanda        |
 |             |Carlina       |
 
-However, until now we haven't agree in a name for our baby.
+However, until late March we didn't agree in a name for our baby.
 
-From this point, I was wondering how popular are these names, wich are the most popular names, and also look into possible compound names for our baby.
+From this point, I start wondering how popular are these names, which are the most popular names, look into possible compound names, and try to find way to get scores for names that sound good with our last names.
 
 ## Data
 ### Names in Spanish
@@ -39,15 +39,20 @@ I was also interested in names from English speaking countries, and found two da
 
 ## References
 - __Popular names in Spain__
-    - [Most frequent first names and surenames](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177009&menu=resultados&idp=1254734710990#!tabs-1254736195454) by Instituto Nacional de Estadística.
+    - [Most frequent first names and surenames](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177009&menu=resultados&idp=1254734710990#!tabs-1254736195454) by Instituto Nacional de Estadística.  
     
 - __Popular names in the USA__
-    - [Social Security Agency](https://www.ssa.gov/oact/babynames/) official webpage.  
+
     - [Popular Baby Names](https://www.ssa.gov/oact/babynames/limits.html) by the Social Security Agency.  
+    - [Social Security Agency](https://www.ssa.gov/oact/babynames/) official webpage.  
     - [US Baby Names dashboard](https://www.dashboardom.com/us-baby-names) by Elias Dabbas.  
 
 - __Popular names in British Columbia, Canada__
-    - [B.C.'s Most Popular Baby Names](https://www2.gov.bc.ca/gov/content/life-events/statistics-reports/bc-s-most-popular-baby-names) by the Government of British Columbia.
+    - [B.C.'s Most Popular Baby Names](https://www2.gov.bc.ca/gov/content/life-events/statistics-reports/bc-s-most-popular-baby-names) by the Government of British Columbia.  
     
 - __Tools__
-    - Julia Silge and David Robinson. [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/ngrams.html). Chapter 4 Relationships between words: n-grams and correlations.
+    - David Mortensen. (2021). [`epitran `](https://pypi.org/project/epitran/) Python library.  
+    - ICHI PRO. (2020). [Analyzing Poetry with Python](https://ichi.pro/es/analizando-la-poesia-en-python-137202249551277). *Original article in Spanish*.  
+    - Julia Silge and David Robinson. (2017). [Text Mining with R: A Tidy Approach](https://www.tidytextmining.com/ngrams.html). Chapter 4 Relationships between words: n-grams and correlations.  
+    - mphilli, Mitchellpkt, CanadianCommander, timvancann. (2020). English to IPA [`eng-to-ipa`](https://pypi.org/project/eng-to-ipa/) Python library.  
+    - toPhonetics. [Online converter of English text to IPA phonetic transcription](https://tophonetics.com).  
