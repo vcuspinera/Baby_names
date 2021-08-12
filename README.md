@@ -1,32 +1,34 @@
 # Baby names
-Analysis of popular baby names in Spain, the USA and Canada.
+Analysis of popular baby names in English and Spanish from public databases from the USA, Canada and Spain.
 
 ## Intro
 
-Getting a name for your baby is not as trivial as people could think, or at least not for my wife and me. We are expecting our first baby, and we have been looking for names in different sources as websites and books with popular baby names, websites with intenational names, between our acquaintances first names, or even writing down names of movies and tv series characters.
+Getting a name for a baby is not as trivial as people could think, or at least not for my wife and me. 
 
-After months of searching names, we have come with a list of favorite names for our baby girl:
+When we were expecting our first baby girl, during the last five months of the pregnancy, we looked for options of names on different sources as websites and books with popular baby names, websites with international names, asked recommendations between our friends, or even wrote down names of movies and tv series characters.
+
+After months of searching names, on early April of 2021 we came with a list of our favorite names for the baby girl:
 
 |Mom's choices| Dad's choices|
 |:------------|:-------------|
-|Macarena     |Victoria      |
-|Elisa        |Gina          |
-|             |Aisha         |
-|             |Amanda        |
+|Elisa        |Aisha         |
+|Macarena     |Amanda        |
 |             |Carlina       |
+|             |Gina          |
+|             |Victoria      |
 
-However, until late March we didn't agree in a name for our baby.
+However, we didn't agree in a name for the baby. So, I started to wonder how we could make the best selection of the name for our baby? Which are the most popular names? Is there a way to measure how well a surname name sounds combined with the family name?
 
-From this point, I start wondering how popular are these names, which are the most popular names, look into possible compound names, and try to find way to get scores for names that sound good with our last names.
+## Databases of names
+The first step was to look for names. In our case, because we live in Mexico we were interested on names in Spanish; however, we also were open for a name from an English speaking country. 
 
-## Data
 ### Names in Spanish
 I was interested in looking for a database of names in Mexico, and I found that the _Registro Nacional de Población_ (National Population Registry) had this information, but it is not available for the public. 
 
 However, I found that _Instituto Nacional de Estadística_ (Statistics National Institute) from __Spain__ 🇪🇸 has open data of the most popular 100 names in this country from 2002 to 2019, and also data of names with frequency equal to or greater than 20 people.
 
 ### Names in English
-I was also interested in names from English speaking countries, and found two databases of popular baby names: the first one with data from the U.S.A. 🇺🇸 published by the [Social Security Agency](https://www.ssa.gov/oact/babynames/), and the second one with data from British Columbia, Canada 🇨🇦, shared by the [Government of B.C.](https://www2.gov.bc.ca/gov/content/life-events/statistics-reports/bc-s-most-popular-baby-names).
+For names from English speaking countries, I found two databases of popular baby names: the first one from the U.S.A. 🇺🇸 published by the [Social Security Agency](https://www.ssa.gov/oact/babynames/), and the second one from British Columbia, Canada 🇨🇦, shared by the [Government of B.C.](https://www2.gov.bc.ca/gov/content/life-events/statistics-reports/bc-s-most-popular-baby-names).
 
 ## Analysis
 
