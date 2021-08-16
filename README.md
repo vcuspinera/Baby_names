@@ -17,13 +17,13 @@ After months of searching names, on early April of 2021 we came with a list of o
 |             |Gina          |
 |             |Victoria      |
 
-However, we didn't agree in a name for the baby. So, I started to wonder how we could make the best selection of the name for our baby? Which are the most popular names? Is there a way to measure how well a surname name sounds combined with the family name?
+However, we didn't agree in a name for the baby. So, I started to wonder how we could make the best selection of the name for our baby? Which are the most popular names? Is there a way to measure how well a surname sounds combined with the family name?
 
 ## Databases of names
 The first step was to look for names. In our case, because we live in Mexico we were interested on names in Spanish; however, we also were open for a name from an English speaking country. 
 
 ### Names in Spanish
-I was interested in looking for a database of names in Mexico, and I found that the _Registro Nacional de Población_ (National Population Registry) had this information, but it is not available for the public. 
+I was interested in looking for a database of names in Mexico. I found that the _Registro Nacional de Población_ (National Population Registry) has this information, but it is not public available. 
 
 However, I found that _Instituto Nacional de Estadística_ (Statistics National Institute) from __Spain__ 🇪🇸 has open data of the most popular 100 names in this country from 2002 to 2019, and also data of names with frequency equal to or greater than 20 people.
 
