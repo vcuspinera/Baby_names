@@ -50,9 +50,7 @@ When comparing the databases of popular names from Spain, the U.S. and Canada, i
 |B.C., Canada| 4,340| 100| 1920-2019|Names with 5 or more observations |
 |USA| 99,444| 140| 1880-2019|Names with 5 or more observations |
 
-In the case of growth of the average number of people per each different name, it looks  stable for the USA and Canada around 0% level, in the case of Spain it is more dynamic, probably because it contains only the 100 most popular names.
-
-While the growth in the average number of people per name is stable for the USA and Canada around 0% level, it is not for Spain, probably because it contains only the 100 most popular names in Spain and compared with the extensive list of names in the USA and Canada data.
+While the growth in the average number of people per name is stable for the USA and Canada around 0% level, it is not for Spain, probably because it contains only the 100 most popular names in Spain, compared with the extensive list of names in the USA and Canada data.
 
 <img src="img/img_1_growth_names.png" width="700">
 
@@ -103,7 +101,7 @@ Similar to the plot from the U.S., here we find that **victoria** has been popul
 
 ## Scoring names using [International Phonetic Alphabet (IPA)](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)
 
-The last effort of this analysis is to construct a tool that measures how well a surname name combines with anothers surname and/or family names.
+The last effort of this analysis is to construct a tool that measures how well a surname combines with anothers surname and/or family names.
 
 For this purpose, I transform the names to their Spanish and English phonetic notation using the [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet), and look for ryhmes in English and Spanish for each comparison between each two strings (names). For example, in the name **maria victoria smith** this function gets the score for the comparison between (1) **maria** and **victoria**, (2) **maria** and **smith**, and (3) **victoria** with **smith**.
 
@@ -111,7 +109,7 @@ In each of this two-strings comparison, I get three scores: Spanish, English and
 
 [⭐️ click here](https://github.com/vcuspinera/Baby_names/blob/main/src/Names_rhyme.py) to look into the class used to get scores of rhymes of names.  
 
-😅 **_Fun fact:_** when I finally arrived to this point of the analysis on early-April 2021, my wife already choosed a name for our baby girl: **elisa**. From this point, it was on my side to choose if I wanted a compound name for our baby girl.  
+😅 **_Fun fact:_** when I finally arrived to this point of the analysis on mid-April 2021, my wife already choose a name for our baby girl: **elisa**. From this point, it was on my side to choose if I wanted a compound name for the baby.  
 
 | Name| IPA Spanish| IPA English| Score Spanish| Score English| Score Total|
 |:---|:---|:---|:---:|:---:|:---:|
@@ -119,7 +117,7 @@ In each of this two-strings comparison, I get three scores: Spanish, English and
 
 Among the compound female names that includes **elisa** combined with our family names **cuspinera** and **martinez** (this is because in Mexico and Latin America we use two family names), the top of possible second names with higher scores were: aisa, akira, alisa, ariza, corisa, delisa, elfrida, elissa, elvina, elyria, elysia, erisa, isa, jazeera, lisa, liza, louisa, luisa, **macarena**, maeda, magdalena, makita, malina, malinda, malvina, marcelia, marcellina, marchita, margarita, marilda, marina, marquita, martina, martita, mathea, matthea, maurita, mayeda, miera, misa, raisa, riera, risa, shakira, viera.
 
-One of these names is **macarena**. So, as in the movie inception, my wife implanted teh idea of this name and among the top compound names this one was my favorite, mainly becase the sound of combining **macarena** and **cuspinera** in both Spanish and English. Actually, **macarena cuspinera** scores 0.5 in Spanish and 0.6667 in English.  
+One of these names is **macarena**. So, as in the movie _Inception_, my wife implanted on my head the idea of this name and, among the top compound names, this one was my favorite mainly becase the sound of combining **macarena** and **cuspinera** in both Spanish and English. Actually, **macarena cuspinera** scores 0.5 in Spanish and 0.6667 in English.  
 
 Finally, we decide that the name of our baby girl would be **elisa macarena cuspinera martinez**, which has an even better score than elisa cuspinera martinez.
 
