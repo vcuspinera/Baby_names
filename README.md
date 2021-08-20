@@ -54,7 +54,7 @@ In the case of growth of the average number of people per each different name, i
 
 While the growth in the average number of people per name is stable for the USA and Canada around 0% level, it is not for Spain, probably because it contains only the 100 most popular names in Spain and compared with the extensive list of names in the USA and Canada data.
 
-<img src="img/img_1_growth_names.png" width="650">
+<img src="img/img_1_growth_names.png" width="750">
 
 [⭐️ click here](https://github.com/vcuspinera/Baby_names/blob/main/src/analysis.ipynb) to see the notebook with the complete EDA and main analysis.
 
@@ -78,17 +78,17 @@ In this sense, in the databases we could find 243 compound names that includes _
 
 The next plot shows the comparison between frequency and average age for all single and compound names that contain one of our seven favorite names for our baby girl.
 
-<img src="img/img_4_favorite.png">
+<img src="img/img_4_favorite.png" width="750">
 
 Finally, the following word cloud presents the compound names with frequency equal to 75 or more observations. While the nodes represent each name, the arrows show the order of connection between names and the darker the arrow, the stronger is the connection between names. For example, the names **maria** and **victoria** are connected in both ways and forms the compound names **maria victoria** and **victoria maria**.
 
-<img src="img/img_5_wordcloud.png" width="600>
+<img src="img/img_5_wordcloud.png" width="700">
 
 ### USA 🇺🇸
 
 For the U.S. plot, I am presenting the trend of newborn babies per year from 1950 to 2019 that had any of our seven favorite names.
 
-<img src="img/img_6_usa.png" width="650">
+<img src="img/img_6_usa.png" width="750">
 
 Here we find that while **victoria** has been popular for all years, **gina** became the most popular name in the late 60's and **amanda** in the 80's. The name **elisa** has been in the middle range of our favorite names with values around 500 observations per year, while **aisha** popularity increased from around 10 observations on the 60's to 1,000 on the 70's and became steady on that level. Finally, the names **carlina** and **macarena** are the least popular from our list in records from the U.S.
 
@@ -96,7 +96,7 @@ Here we find that while **victoria** has been popular for all years, **gina** be
 
 In this case the following plot presents the trend of newborn babies per year from 1950 to 2019 in British Columbia, Canada, that had any of our favorite names. In this case, the database has information of five from our seven selected names: __victoria__, __elisa__, __amanda__, __gina__ and __aisha__.
 
-<img src="img/img_7_canada.png" width="650">
+<img src="img/img_7_canada.png" width="750">
 
 Similar to the plot from the U.S., here we find that **victoria** has been popular for all years and **amanda** became the most popular name in the 80's and 90's. The popularity of **gina** decreased over time. And finally, the names **elisa** and **aisha** have low records.
 
