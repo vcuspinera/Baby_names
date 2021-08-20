@@ -117,7 +117,7 @@ In each of this two-strings comparison, I get three scores: Spanish, English and
 
 Among the compound female names that includes **elisa** combined with our family names **cuspinera** and **martinez** (this is because in Mexico and Latin America we use two family names), the top of possible second names with higher scores were: aisa, akira, alisa, ariza, corisa, delisa, elfrida, elissa, elvina, elyria, elysia, erisa, isa, jazeera, lisa, liza, louisa, luisa, **macarena**, maeda, magdalena, makita, malina, malinda, malvina, marcelia, marcellina, marchita, margarita, marilda, marina, marquita, martina, martita, mathea, matthea, maurita, mayeda, miera, misa, raisa, riera, risa, shakira, viera.
 
-One of these names is **macarena**. So, as in the movie _Inception_, my wife implanted on my head the idea of this name and, among the top compound names, this one was my favorite mainly becase the sound of combining **macarena** and **cuspinera** in both Spanish and English. Actually, **macarena cuspinera** scores 0.5 in Spanish and 0.6667 in English.  
+As you could realize, one of these names is **macarena**. So, as in the movie _Inception_, I felt that my wife implanted on my head the idea of this name and, among the top options of compound names combined with **elisa**, this one was my favorite mainly becase the way it sounds when combining **macarena** and **cuspinera**. Actually, **macarena cuspinera** scores 0.5 in Spanish and 0.6667 in English.  
 
 Finally, we decide that the name of our baby girl would be **elisa macarena cuspinera martinez**, which has an even better score than elisa cuspinera martinez.
 
