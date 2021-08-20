@@ -82,7 +82,7 @@ The next plot shows the comparison between frequency and average age for all sin
 
 Finally, the following word cloud presents the compound names with frequency equal to 75 or more observations. While the nodes represent each name, the arrows show the order of connection between names and the darker the arrow, the stronger is the connection between names. For example, the names **maria** and **victoria** are connected in both ways and forms the compound names **maria victoria** and **victoria maria**.
 
-<img src="img/img_5_wordcloud.png" width="650">
+<img src="img/img_5_wordcloud.png" width="550">
 
 ### USA 🇺🇸
 
