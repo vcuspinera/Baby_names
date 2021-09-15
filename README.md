@@ -2,12 +2,12 @@
 
 Analysis of popular baby names from public databases from the USA, Canada and Spain, by using phonetic translators in Python to compare how well a first name sounds with a middle and family names in English and Spanish.
 
-<centre><img src="img/img_0_elisa_keyboard.png" width="780"></centre>
+<img src="img/img_0_elisa_keyboard.png" width="780">
 
-<centre><i>Elisa on the keyboard. Image by Victor Cuspinera.</i></centre>
+__Elisa on the keyboard. Image by Victor Cuspinera.__
 
 
-## Intro
+## Introduction
 
 Getting a name for a baby is not as trivial as people could think, or at least not for my wife and me. 
 
