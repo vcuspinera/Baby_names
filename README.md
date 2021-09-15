@@ -1,10 +1,10 @@
 # Baby names
 
-Analysis of popular baby names in English and Spanish from public databases from the USA, Canada and Spain.
+Analysis of popular baby names from public databases from the USA, Canada and Spain, by using phonetic translators in Python to compare how well a first name sounds with a middle and family names in English and Spanish.
 
-<img src="img/img_0_elisa_keyboard.png" width="750">
+<img src="img/img_0_elisa_keyboard.png" width="780">
 
-_Elisa on the keyboard. Image by Victor Cuspinera._
+<center><i>Elisa on the keyboard. Image by Victor Cuspinera.</center></i>
 
 
 ## Intro
