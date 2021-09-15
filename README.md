@@ -2,6 +2,11 @@
 
 Analysis of popular baby names in English and Spanish from public databases from the USA, Canada and Spain.
 
+<img src="img/img_0_elisa_keyboard.png" width="750">
+
+_Elisa on the keyboard. Image by Victor Cuspinera._
+
+
 ## Intro
 
 Getting a name for a baby is not as trivial as people could think, or at least not for my wife and me. 
