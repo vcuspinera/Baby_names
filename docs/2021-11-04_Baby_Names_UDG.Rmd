@@ -3,9 +3,7 @@ title: "Choosing a baby name using Python"
 subtitle: "Desarrollando un proyecto personal de Data Science"
 author: "Victor Cuspinera"
 date: "2021-11-04"
-output:
-  ioslides_presentation:
-    template: quarterly-report.html
+output: ioslides_presentation
 ---
 
 ```{r setup, include=FALSE}
@@ -117,6 +115,11 @@ sys.path.append('../src/')
 from Names_rhyme import Names_rhyme
 ```
 
+```{r load_packages, echo = FALSE}
+library(vegawidget) # Need to install this using: install.packages('vegawidget')
+library(reticulate)
+```
+
 ```{python, echo = FALSE}
 # Parameters
 my_folder = "../data/raw/"
@@ -204,12 +207,7 @@ De nuestros nombres favoritos en la base de datos de España, el nombre más pop
 
 Respecto a la edad promedio, mientras __aisha__ es el nombre para mujeres más jóvenes con 9.9 anõs promedio, en el otro extremo tenemos a __carlina__ con 61.2 años.
 
-```{r load_packages, echo = FALSE}
-library(vegawidget) # Need to install this using: install.packages('vegawidget')
-library(reticulate)
-```
-
-```{python, echo = FALSE}
+```{python, echo = FALSE, include=FALSE}
 #List of our favorite names
 our_baby = ['Macarena', 'Elisa', 'Victoria', 'Gina', 'Aisha', 'Amanda', 'Carlina']
 our_baby = pd.DataFrame([i.lower() for i in our_baby]).rename(columns={0:"name"})
