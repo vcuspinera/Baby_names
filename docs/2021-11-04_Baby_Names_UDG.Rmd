@@ -3,7 +3,9 @@ title: "Choosing a baby name using Python"
 subtitle: "Desarrollando un proyecto personal de Data Science"
 author: "Victor Cuspinera"
 date: "2021-11-04"
-output: ioslides_presentation
+output:
+  ioslides_presentation:
+    template: quarterly-report.html
 ---
 
 ```{r setup, include=FALSE}
